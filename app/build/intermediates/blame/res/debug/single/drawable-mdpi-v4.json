@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "N:\\OOP\\MedCentreAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_edit.png",
+        "source": "N:\\OOP\\MedCentreAndroidApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "N:\\OOP\\MedCentreAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_search.png",
+        "source": "N:\\OOP\\MedCentreAndroidApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "N:\\OOP\\MedCentreAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_new.png",
+        "source": "N:\\OOP\\MedCentreAndroidApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "N:\\OOP\\MedCentreAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_accept.png",
+        "source": "N:\\OOP\\MedCentreAndroidApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "N:\\OOP\\MedCentreAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_discard.png",
+        "source": "N:\\OOP\\MedCentreAndroidApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "N:\\OOP\\MedCentreAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "N:\\OOP\\MedCentreAndroidApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

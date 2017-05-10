@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "N:\\OOP\\MedCentreAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\doctor.xml",
+        "source": "N:\\OOP\\MedCentreAndroidApp\\app\\src\\main\\res\\menu\\doctor.xml"
+    },
+    {
+        "merged": "N:\\OOP\\MedCentreAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "N:\\OOP\\MedCentreAndroidApp\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
